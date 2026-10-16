@@ -1,0 +1,4 @@
+module CEmberCore {
+    header "include/ember_core.h"
+    export *
+}

@@ -1,0 +1,12 @@
+.DS_Store
+.build/
+target/
+dist/
+macOS/.build/
+macOS/.swiftpm/
+*.xcuserstate
+xcuserdata/
+.env
+.env.*
+!.env.example
+work/
